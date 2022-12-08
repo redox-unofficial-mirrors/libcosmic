@@ -70,3 +70,6 @@ members = [
 exclude = [
   "iced",
 ]
+
+[patch.crates-io]
+winit = { git = "https://gitlab.redox-os.org/redox-os/winit.git", branch = "master" }

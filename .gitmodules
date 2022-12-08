@@ -1,4 +1,4 @@
 [submodule "iced"]
 	path = iced
-	url = https://github.com/pop-os/iced.git
-	branch = master
+	url = https://gitlab.redox-os.org/redox-os/iced.git
+	branch = redox
