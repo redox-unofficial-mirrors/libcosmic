@@ -1,6 +1,9 @@
 // Copyright 2022 System76 <info@system76.com>
 // SPDX-License-Identifier: MPL-2.0
 
+#![feature(derive_default_enum)]
+#![feature(let_else)]
+
 #![allow(clippy::module_name_repetitions)]
 
 pub use iced;
